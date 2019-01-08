@@ -1,0 +1,174 @@
+  1. "BIOGUIDE_ID"
+
+	Type of data:          Text
+	Contains null values:  True (excluded from calculations)
+	Unique values:         44
+	Longest value:         7 characters
+	Most common values:    None (12x)
+	                       C000537 (5x)
+	                       G000565 (5x)
+	                       B001251 (4x)
+	                       H001053 (4x)
+
+  2. "OFFICE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         46
+	Longest value:         33 characters
+	Most common values:    MISCELLANEOUS AUTOMOBILES (9x)
+	                       HON. JAMES E. CLYBURN (5x)
+	                       HON. PAUL A. GOSAR (5x)
+	                       HON. G.K. BUTTERFIELD (4x)
+	                       HON. VICKY HARTZLER (4x)
+
+  3. "QUARTER"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         6 characters
+	Most common values:    2017Q1 (95x)
+
+  4. "PROGRAM"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         4
+	Longest value:         28 characters
+	Most common values:    OFFICIAL EXPENSES OF MEMBERS (83x)
+	                       MISCELLANEOUS AUTOMOBILES (9x)
+	                       COMMUNICATIONS (2x)
+	                       ADMIN AND OPS (1x)
+
+  5. "CATEGORY"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         6 characters
+	Most common values:    TRAVEL (95x)
+
+  6. "DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         46
+	Smallest value:        2017-01-04
+	Largest value:         2017-03-31
+	Most common values:    2017-03-21 (5x)
+	                       2017-01-24 (5x)
+	                       2017-01-19 (5x)
+	                       2017-02-21 (4x)
+	                       2017-01-04 (4x)
+
+  7. "TRANSCODE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         2 characters
+	Most common values:    AP (95x)
+
+  8. "RECORDID"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         86
+	Longest value:         8 characters
+	Most common values:    912200 (4x)
+	                       900647 (4x)
+	                       904174 (4x)
+	                       E0499197 (1x)
+	                       E0477994 (1x)
+
+  9. "PAYEE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         22
+	Longest value:         26 characters
+	Most common values:    CITIBANK GOV CARD SERVICE (58x)
+	                       CITI PCARD-EXXONMOBIL (5x)
+	                       JORDAN KYLE (3x)
+	                       TERRAZAS RICARDO (3x)
+	                       HON. FRANK D. LUCAS (3x)
+
+ 10. "START DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         50
+	Smallest value:        2016-09-29
+	Largest value:         2017-03-06
+	Most common values:    2016-11-29 (7x)
+	                       2017-01-27 (6x)
+	                       2016-11-28 (6x)
+	                       2017-01-29 (5x)
+	                       2016-10-27 (4x)
+
+ 11. "END DATE"
+
+	Type of data:          Date
+	Contains null values:  False
+	Unique values:         54
+	Smallest value:        2016-10-07
+	Largest value:         2017-03-07
+	Most common values:    2017-02-28 (7x)
+	                       2016-12-27 (4x)
+	                       2016-12-21 (4x)
+	                       2016-12-23 (4x)
+	                       2016-12-20 (4x)
+
+ 12. "PURPOSE"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         1
+	Longest value:         8 characters
+	Most common values:    GASOLINE (95x)
+
+ 13. "AMOUNT"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         94
+	Smallest value:        101.2
+	Largest value:         602.24
+	Sum:                   18521.87
+	Mean:                  194.967053
+	Median:                167.72
+	StDev:                 94.000384
+	Most common values:    214 (2x)
+	                       108.97 (1x)
+	                       233.37 (1x)
+	                       350.76 (1x)
+	                       369.19 (1x)
+
+ 14. "YEAR"
+
+	Type of data:          Number
+	Contains null values:  False
+	Unique values:         2
+	Smallest value:        2016
+	Largest value:         2017
+	Sum:                   191560
+	Mean:                  2016.421053
+	Median:                2016
+	StDev:                 0.496347
+	Most common values:    2016 (55x)
+	                       2017 (40x)
+
+ 15. "RECIP (orig.)"
+
+	Type of data:          Text
+	Contains null values:  False
+	Unique values:         22
+	Longest value:         26 characters
+	Most common values:    CITIBANK GOV CARD SERVICE (58x)
+	                       CITI PCARD-EXXONMOBIL (5x)
+	                       JORDAN KYLE (3x)
+	                       TERRAZAS RICARDO (3x)
+	                       HON. FRANK D. LUCAS (3x)
+
+Row count: 95

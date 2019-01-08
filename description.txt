@@ -1,0 +1,1 @@
+This new program looks at gasoline expenditures over 100 dollars. The goal is to see if certain offices are paying significantly more for gas expenses as a proxy for positive constituent service.
